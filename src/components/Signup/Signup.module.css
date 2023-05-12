@@ -1,0 +1,179 @@
+.button.button {
+  left: 172.8617px;
+  top: 686.0251px;
+  width: 351.1254px;
+  height: 81.9134px;
+}
+.rectangle2.rectangle2 {
+  background-color: #000;
+}
+.register {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 34.9826%;
+  right: 35.3984%;
+  top: 31.1624%;
+  bottom: 32.2136%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1840px;
+  height: 1024px;
+  align-items: flex-start;
+  background-color: #000;
+  overflow: hidden;
+}
+.signupA {
+  position: absolute;
+  left: 80px;
+  top: 62px;
+  width: 1680px;
+  height: 899px;
+  align-items: flex-start;
+  background-color: #b7bfdf;
+  overflow: hidden;
+}
+.rectangle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1680px;
+  height: 899px;
+  outline: solid 1px #00000080;
+  outline-offset: -1px;
+  background-color: #8991d0;
+}
+.signUpForAFreeAccount {
+  color: #000;
+  font-size: 35px;
+  line-height: 36px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 173px;
+  top: 137px;
+  width: 1507.1383px;
+  height: 73.7221px;
+  flex-direction: column;
+}
+.rectangle22 {
+  position: absolute;
+  left: 172.8617px;
+  top: 292.8405px;
+  width: 640.1286px;
+  height: 81.9134px;
+  outline: solid 1px #00000080;
+  outline-offset: -1px;
+  background-color: #e2f0ff;
+}
+.firstName {
+  color: #000c;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 210.6753px;
+  top: 309.2231px;
+  width: 602.3151px;
+  height: 49.1481px;
+  flex-direction: column;
+}
+.rectangle21 {
+  position: absolute;
+  left: 867.0098px;
+  top: 292.8405px;
+  width: 640.1286px;
+  height: 81.9134px;
+  outline: solid 1px #00000080;
+  outline-offset: -1px;
+  background-color: #e2f0ff;
+}
+.lastName {
+  color: #000c;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 904.823px;
+  top: 309.2231px;
+  width: 602.3151px;
+  height: 49.1481px;
+  flex-direction: column;
+}
+.rectangle222 {
+  position: absolute;
+  left: 172.8617px;
+  top: 423.9021px;
+  width: 1334.2765px;
+  height: 81.9134px;
+  outline: solid 1px #00000080;
+  outline-offset: -1px;
+  background-color: #e2f0ff;
+}
+.emailAddress {
+  color: #000c;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 210.6753px;
+  top: 440.2848px;
+  width: 602.3151px;
+  height: 49.1481px;
+  flex-direction: column;
+}
+.rectangle23 {
+  position: absolute;
+  left: 172.8617px;
+  top: 554.9634px;
+  width: 1334.2765px;
+  height: 81.9134px;
+  outline: solid 1px #00000080;
+  outline-offset: -1px;
+  background-color: #e2f0ff;
+}
+.createPassword {
+  color: #000c;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 210.6753px;
+  top: 571.3463px;
+  width: 602.3151px;
+  height: 49.1481px;
+  flex-direction: column;
+}
+.soccerRafiki {
+  position: absolute;
+  left: 1281px;
+  top: -428px;
+  width: 403px;
+  height: 426px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

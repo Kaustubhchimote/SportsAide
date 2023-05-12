@@ -1,0 +1,1259 @@
+.root {
+  position: relative;
+  width: 1448px;
+  height: 4481px;
+  align-items: flex-start;
+  background-image: linear-gradient(
+    169.6deg,
+    #3a299fff 0%,
+    #05119dff 45%,
+    #2351f5ff 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow: hidden;
+}
+.rectangle8 {
+  position: absolute;
+  left: 84px;
+  top: 769px;
+  width: 636px;
+  height: 417px;
+  border-radius: 20px;
+  background-color: #1c140f;
+}
+.rectangle10 {
+  position: absolute;
+  left: 704px;
+  top: 1453px;
+  width: 632px;
+  height: 411px;
+  border-radius: 20px;
+  background-color: #1c140f;
+}
+.rectangle11 {
+  position: absolute;
+  left: 84px;
+  top: 2133px;
+  width: 640px;
+  height: 403px;
+  border-radius: 20px;
+  background-color: #1c140f;
+}
+.rectangle21 {
+  position: absolute;
+  left: 2.001px;
+  top: 4101px;
+  width: 1445.9987px;
+  height: 380px;
+  background-color: #070707;
+}
+.loremIpsumIsSimplyDummyTextOfT {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 103.4216px;
+  top: 4227.3298px;
+  width: 373.5497px;
+  height: 58.617px;
+  flex-direction: column;
+}
+.zeuxPortfolioCareersContactUs {
+  position: absolute;
+  left: 555.2961px;
+  top: 4222.2766px;
+  width: 373.5497px;
+  height: 118.2447px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  line-height: 186.3%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 186.3%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 186.3%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 186.3%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.Lorem {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 103.4216px;
+  top: 4311.2128px;
+  width: 196.8165px;
+  height: 23.2447px;
+  flex-direction: column;
+}
+.group12 {
+  position: absolute;
+  left: 1142.7331px;
+  top: 4299.0851px;
+  width: 184.7665px;
+  height: 34.3617px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.aboutUs {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 555.2961px;
+  top: 4180.8405px;
+  width: 76.3166px;
+  height: 26.2766px;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT2 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 776.2125px;
+  top: 4227.3298px;
+  width: 283.1747px;
+  height: 76.8085px;
+  flex-direction: column;
+}
+._90889097890 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 776.2125px;
+  top: 4315.2554px;
+  width: 141.5874px;
+  height: 28.2979px;
+  flex-direction: column;
+}
+.contactUs {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 776.2126px;
+  top: 4180.8405px;
+  width: 94.3916px;
+  height: 26.2766px;
+  flex-direction: column;
+}
+.line1 {
+  position: absolute;
+  left: 2px;
+  top: 4396.317px;
+  width: 1446px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 0.8px #d2d2d2;
+  margin-bottom: -0.8px;
+}
+.copyright2022ProdesignerAllRig {
+  color: #fff;
+  font-size: 13px;
+  line-height: 190.6%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 592.4504px;
+  top: 4426.4255px;
+  width: 307.2747px;
+  height: 25.266px;
+  flex-direction: column;
+}
+.lOGO {
+  color: #fff;
+  font-size: 24px;
+  line-height: 153.5%;
+  font-weight: 800;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 103.4217px;
+  top: 4174.7766px;
+  width: 168.2833px;
+  height: 37.3936px;
+  flex-direction: column;
+}
+.joinTheGame {
+  color: #fff;
+  font-size: 30px;
+  line-height: 187.5%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 3569px;
+  width: 264px;
+  height: 44px;
+  flex-direction: column;
+}
+.whyWaitAndJustWatchWhenYouCanJ {
+  color: #fff;
+  font-size: 16px;
+  line-height: 187.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 117.001px;
+  top: 3641px;
+  width: 545px;
+  height: 57px;
+  flex-direction: column;
+}
+.rectangle18 {
+  position: absolute;
+  left: 117.001px;
+  top: 3772px;
+  width: 1170px;
+  height: 189px;
+  border-radius: 15px;
+  background-color: #1b1b1b;
+}
+.stayInTheLoop {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 173.001px;
+  top: 3812px;
+  width: 303px;
+  height: min-content;
+  flex-direction: column;
+}
+.subscribeToReceiveTheLatestNew {
+  position: absolute;
+  left: 173.001px;
+  top: 3867px;
+  width: 636px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.rectangle19 {
+  position: absolute;
+  left: 851.3224px;
+  top: 3843px;
+  width: 385.6785px;
+  height: 48px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.rectangle20 {
+  position: absolute;
+  left: 1125.7675px;
+  top: 3849px;
+  width: 104.996px;
+  height: 37px;
+  border-radius: 8px;
+  background-color: #dc7000;
+}
+.continue {
+  color: #fff;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1147.9645px;
+  top: 3857px;
+  width: 69.299px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.enterEmailAddress {
+  color: #898989;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 871.8685px;
+  top: 3857px;
+  width: 155.0977px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.homeEvents {
+  position: absolute;
+  left: 650px;
+  top: 196px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 16px;
+  line-height: 208.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.label2 {
+  color: #e47500;
+  font-size: 16px;
+  line-height: 208.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+}
+.textForEvents {
+  color: #fff;
+  font-size: 33px;
+  line-height: 180.5%;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 249px;
+  top: 244px;
+  width: 942px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.shortDescription {
+  color: #fff;
+  font-size: 16px;
+  line-height: 187.5%;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 415px;
+  top: 317px;
+  width: 609px;
+  height: 31px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle264 {
+  opacity: 0.06;
+  position: absolute;
+  left: 205.5792px;
+  top: 445.7983px;
+  width: 1068.8416px;
+  height: 189.2184px;
+  border-radius: 10px;
+  background-color: #0d1025;
+  filter: blur(57px);
+}
+.rectangle252 {
+  position: absolute;
+  left: 170px;
+  top: 393px;
+  width: 1140px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: #1c140f;
+}
+.cities {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 740px;
+  top: 495.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._150 {
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 740px;
+  top: 460.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sports {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 352.5px;
+  top: 495.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._25 {
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 352.5px;
+  top: 460.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tournaments {
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1148.5px;
+  top: 495.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._50 {
+  color: #fff;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1148.5px;
+  top: 460.5px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector14 {
+  position: absolute;
+  left: 535.5px;
+  top: 430.2133px;
+  width: 2px;
+  max-width: 100%;
+  height: 125.5735px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector15 {
+  position: absolute;
+  left: 965.5px;
+  top: 430.2133px;
+  width: 2px;
+  max-width: 100%;
+  height: 125.5735px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle270 {
+  position: absolute;
+  left: 648.5px;
+  top: 465.5px;
+  width: 55px;
+  height: 55px;
+  border-radius: 70px;
+  background-color: #ffecec;
+}
+.gridiconsLocation {
+  position: absolute;
+  left: 664px;
+  top: 481px;
+  width: 24px;
+  height: 24px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle271 {
+  position: absolute;
+  left: 261px;
+  top: 465.5px;
+  width: 55px;
+  height: 55px;
+  border-radius: 70px;
+  background-color: #ffecec;
+}
+.heroiconsSmUser {
+  position: absolute;
+  left: 276.5px;
+  top: 481px;
+  width: 24px;
+  height: 24px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle272 {
+  position: absolute;
+  left: 1057px;
+  top: 465.5px;
+  width: 55px;
+  height: 55px;
+  border-radius: 70px;
+  background-color: #ffecec;
+}
+.bxBxsServer {
+  position: absolute;
+  left: 1072.5px;
+  top: 481px;
+  width: 24px;
+  height: 24px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle273 {
+  position: absolute;
+  left: 0;
+  top: 2715px;
+  width: 1444px;
+  height: 741px;
+  background-color: #1c140f;
+}
+.rectangle266 {
+  opacity: 0.06;
+  position: absolute;
+  left: 154.2514px;
+  top: 3038.3089px;
+  width: 319.2372px;
+  height: 302.0289px;
+  border-radius: 10px;
+  background-color: #0d1025;
+  filter: blur(57px);
+}
+.loremIpsumIsSimplyDummyTextOfT3 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 187.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 406.6273px;
+  top: 2917.8211px;
+  width: 556.5417px;
+  height: 52.2114px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.trustedByThousandsOfHappyCusto {
+  color: #fff;
+  font-size: 35px;
+  line-height: 50px;
+  font-weight: 500;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 460.3738px;
+  top: 2797.3333px;
+  width: 449.0492px;
+  height: 100.4065px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle265 {
+  position: absolute;
+  left: 113.3148px;
+  top: 3038.3089px;
+  width: 401.1111px;
+  height: 230.935px;
+  outline: solid 2px #dc7000;
+  outline-offset: -2px;
+  border-radius: 10px;
+  background-color: #0f0901;
+}
+.rectangle267 {
+  position: absolute;
+  left: 564.5648px;
+  top: 3038.3089px;
+  width: 401.1111px;
+  height: 230.935px;
+  outline: solid 2px #ddd;
+  outline-offset: -2px;
+  border-radius: 10px;
+}
+.rectangle268 {
+  position: absolute;
+  left: 1015.8148px;
+  top: 3038.3089px;
+  width: 401.1111px;
+  height: 230.935px;
+  outline: solid 2px #ddd;
+  outline-offset: -2px;
+  border-radius: 10px;
+}
+.group1300 {
+  position: absolute;
+  left: 113.3148px;
+  top: 3352.0792px;
+  width: 135.375px;
+  height: 15.061px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse175 {
+  position: absolute;
+  left: 143.3981px;
+  top: 3068.4309px;
+  width: 50.1389px;
+  height: 50.2033px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.viezhRobert {
+  color: #fff;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 213.5923px;
+  top: 3074.9573px;
+  width: 112.3111px;
+  height: 18.0732px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.warsawPoland {
+  color: #4f5665;
+  font-size: 14px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 214.5951px;
+  top: 3098.0508px;
+  width: 101.2806px;
+  height: 14.0569px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.ellipse1752 {
+  position: absolute;
+  left: 594.6481px;
+  top: 3068.4309px;
+  width: 50.1389px;
+  height: 50.2033px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.yessicaChristy {
+  color: #fff;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 664.8423px;
+  top: 3074.9573px;
+  width: 142.4166px;
+  height: 18.0732px;
+  justify-content: center;
+  flex-direction: column;
+}
+.shanxiChina {
+  color: #4f5665;
+  font-size: 14px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 665.8451px;
+  top: 3098.0508px;
+  width: 109.6614px;
+  height: 14.0569px;
+  justify-content: center;
+  flex-direction: column;
+}
+.ellipse1753 {
+  position: absolute;
+  left: 1045.8981px;
+  top: 3068.4309px;
+  width: 50.1389px;
+  height: 50.2033px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.kimYoungJou {
+  color: #fff;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1116.0923px;
+  top: 3074.9573px;
+  width: 142.4166px;
+  height: 18.0732px;
+  justify-content: center;
+  flex-direction: column;
+}
+.seoulSouthKorea {
+  color: #4f5665;
+  font-size: 14px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1117.0951px;
+  top: 3098.0508px;
+  width: 127.6916px;
+  height: 14.0569px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT4 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 187.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 143.3981px;
+  top: 3138.7154px;
+  width: 340.9445px;
+  height: 100.4065px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT5 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 187.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 594.6481px;
+  top: 3126.6666px;
+  width: 340.9445px;
+  height: 100.4065px;
+  flex-direction: column;
+}
+.loremIpsumIsSimplyDummyTextOfT6 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 187.5%;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1045.8981px;
+  top: 3121.6463px;
+  width: 340.9445px;
+  height: 100.4065px;
+  justify-content: center;
+  flex-direction: column;
+}
+.buttonNonactLeft {
+  position: absolute;
+  left: 1116.0926px;
+  top: 3329.4878px;
+  width: 60.1667px;
+  height: 60.2439px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.buttonActRight {
+  position: absolute;
+  left: 1196.3147px;
+  top: 3329.4878px;
+  width: 60.1667px;
+  height: 60.2439px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+._45 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 434.2037px;
+  top: 3085.8535px;
+  width: 24.0667px;
+  height: 16.065px;
+  justify-content: center;
+  flex-direction: column;
+}
+.antDesignStarFilled {
+  position: absolute;
+  left: 468.2981px;
+  top: 3085.1465px;
+  width: 16.0444px;
+  height: 16.065px;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+._452 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 885.4538px;
+  top: 3085.8535px;
+  width: 24.0667px;
+  height: 16.065px;
+  justify-content: center;
+  flex-direction: column;
+}
+.antDesignStarFilled2 {
+  position: absolute;
+  left: 919.5482px;
+  top: 3085.1465px;
+  width: 16.0444px;
+  height: 16.065px;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+._453 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  font-family: Rubik, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 1336.7037px;
+  top: 3085.8535px;
+  width: 24.0667px;
+  height: 16.065px;
+  justify-content: center;
+  flex-direction: column;
+}
+.antDesignStarFilled3 {
+  position: absolute;
+  left: 1370.7985px;
+  top: 3085.1465px;
+  width: 16.0444px;
+  height: 16.065px;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.allAboutCricket {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 93px;
+  top: 697px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.getLiveCricketScoresScorecardS {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 116px;
+  top: 830px;
+  width: 548px;
+  height: 131px;
+  flex-direction: column;
+}
+.joinTheFunAndAppreciateAndGetT {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 116px;
+  top: 963px;
+  width: 508px;
+  height: 58px;
+  flex-direction: column;
+}
+.rectangle9 {
+  position: absolute;
+  left: 116px;
+  top: 1058px;
+  width: 177px;
+  height: 50px;
+  background-color: #dc7000;
+}
+.readMore {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 161px;
+  top: 1071px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle25 {
+  position: absolute;
+  left: 791.001px;
+  top: 697px;
+  width: 496px;
+  height: 489px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url("assets/crich.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.allAboutHockey {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 84px;
+  top: 2058px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.getHockeyLiveScoresAndLatestNe {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 2187px;
+  width: 543px;
+  height: 141px;
+  flex-direction: column;
+}
+.joinTheFunAndAppreciateAndGetT2 {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 117px;
+  top: 2338px;
+  width: 508px;
+  height: 58px;
+  flex-direction: column;
+}
+.rectangle92 {
+  position: absolute;
+  left: 117px;
+  top: 2418px;
+  width: 177px;
+  height: 50px;
+  background-color: #dc7000;
+}
+.readMore2 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 2431px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle253 {
+  position: absolute;
+  left: 791.001px;
+  top: 2047px;
+  width: 496px;
+  height: 489px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url("assets/kho.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle26 {
+  position: absolute;
+  left: 126.001px;
+  top: 1375px;
+  width: 496px;
+  height: 489px;
+  background-color: #c4c4c4;
+  background-image:/* webpackIgnore: true */ url("assets/rectangle26.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.allAboutFootball {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 704px;
+  top: 1388px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sportsAideFootballLiveGamesSco {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 738px;
+  top: 1521px;
+  width: 541px;
+  height: 125px;
+  flex-direction: column;
+}
+.joinTheFunAndAppreciateAndGetT3 {
+  color: #fff;
+  font-size: 17px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 738px;
+  top: 1656px;
+  width: 508px;
+  height: 58px;
+  flex-direction: column;
+}
+.rectangle93 {
+  position: absolute;
+  left: 738px;
+  top: 1749px;
+  width: 177px;
+  height: 50px;
+  background-color: #dc7000;
+}
+.readMore3 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 783px;
+  top: 1762px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1 {
+  position: absolute;
+  left: 703px;
+  top: 52px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 88px;
+}
+.home {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  width: 50.6003px;
+  height: 24.2009px;
+  flex-direction: column;
+}
+.aboutUs2 {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  width: 74.8463px;
+  height: 24.2009px;
+  flex-direction: column;
+}
+.portfolio {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  width: 70.6296px;
+  height: 24.2009px;
+  flex-direction: column;
+}
+.news {
+  color: #fff;
+  font-size: 16px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  width: 45.3293px;
+  height: 24.2009px;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 86.4583%;
+  right: 4.3909%;
+  top: 0.8718%;
+  bottom: 98.309%;
+  border-radius: 6px;
+  background-color: #fa9021;
+}
+.contactUs2 {
+  color: #fff;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 88.3617%;
+  right: 6.3674%;
+  top: 1.0716%;
+  bottom: 98.5288%;
+  flex-direction: column;
+}
+.rectangle27 {
+  position: absolute;
+  left: 842px;
+  top: 83px;
+  width: 31px;
+  height: 4px;
+  border-radius: 20px;
+  background-color: #dc7000;
+}
+.rectangle28 {
+  position: absolute;
+  left: 878px;
+  top: 83px;
+  width: 5px;
+  height: 4px;
+  border-radius: 20px;
+  background-color: #dc7000;
+}
+.lOGO2 {
+  color: #fff;
+  font-size: 29px;
+  line-height: 153.5%;
+  font-weight: 800;
+  font-family: Poppins, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  position: absolute;
+  left: 55px;
+  top: 37px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
